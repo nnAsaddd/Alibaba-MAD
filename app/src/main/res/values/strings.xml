@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="description_background_image">Background image of people smiling</string>
+    <string name="description_check_icon">Check icon for feature list</string>
+    <string name="sourcing_journey">Your sourcing journey starts here</string>
+    <string name="feature_1_text">200M+ products</string>
+    <string name="feature_2_text">200K+ suppliers</string>
+    <string name="feature_3_text">Purchase protection from payment to delivery</string>
+    <string name="register_signin_btn">Register or sign in</string>
+    <string name="get_started_btn">Get started</string>
+</resources>
